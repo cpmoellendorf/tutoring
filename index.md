@@ -4,13 +4,14 @@ layout: default
 
 ### Are you looking to **_really_** understand your math classes, improve your math grades, and grow as a person?
 
-Hi, my name is Coen PM!
+**Hi, my name is Coen!**
 
 [INSERT IMAGE HERE]
 
-* 4.0 GPA pre- and post-transfer
-* 2 years tutoring experience
-* Refined tutoring experience to address academic **and** personal challenges
+**Why choose me to be your math tutor?**
+* **4.0 GPA pre- and post-transfer**
+* **2 years tutoring experience**
+* **Refined tutoring techniques to address academic _and_ personal challenges**
 
 ### If you, or anyone you know, is interested in an hourly math tutoring service, you can call me to schedule an appointment at:
 
