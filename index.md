@@ -4,11 +4,9 @@ layout: default
 
 ### Are you looking to **_really_** understand your math classes, improve your math grades, and grow as a person?
 
-
-
 Hi, my name is Coen PM!
 
-<!-- Image Here -->
+[INSERT IMAGE HERE]
 
 After keeping a 4.0 GPA as a Math/Statistics major pre- and post-transfer to UCLA, and tutoring students for 2 years, I've learned to find where my students are struggling, both in math and in-general, and help them address their difficulties simply and efficiently. 
 
