@@ -4,13 +4,19 @@ layout: default
 
 ### Are you looking to **_really_** understand your math classes, improve your math grades, and grow as a person?
 
+Hi, my name is Coen PM!
+
+<!-- Image Here -->
+
+After keeping a 4.0 GPA as a Math/Statistics major pre- and post-transfer to UCLA, and tutoring students for 2 years, I've learned to find where my students are struggling, both in math and in-general, and help them address their difficulties simply and efficiently. 
+
+### If you, or anyone you know, is interested in an hourly math tutoring service, you can call me to schedule an appointment at:
+
+**Phone:** (323)356-4020
+**Email:** cpmoellendorf@gmail.com
 
 
-
-
-
-
-
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -130,3 +136,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
