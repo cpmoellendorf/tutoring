@@ -8,7 +8,9 @@ Hi, my name is Coen PM!
 
 [INSERT IMAGE HERE]
 
-After keeping a 4.0 GPA as a Math/Statistics major pre- and post-transfer to UCLA, and tutoring students for 2 years, I've learned to find where my students are struggling, both in math and in-general, and help them address their difficulties simply and efficiently. 
+* 4.0 GPA pre- and post-transfer
+* 2 years tutoring experience
+* Refined tutoring experience to address academic **and** personal challenges
 
 ### If you, or anyone you know, is interested in an hourly math tutoring service, you can call me to schedule an appointment at:
 
