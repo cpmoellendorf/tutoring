@@ -4,9 +4,9 @@ layout: default
 
 ### Are you looking to **_really_** understand your math classes, improve your math grades, and grow as a person?
 
-**Hi, my name is Coen!**
-
 ![Learning Curve Tutoring](assets/images/learning-curve.png)
+
+**Hi, my name is Coen!**
 
 **Why choose me to be your math tutor?**
 * **4.0 GPA, UCLA**
