@@ -6,7 +6,7 @@ layout: default
 
 **Hi, my name is Coen!**
 
-[INSERT IMAGE HERE]
+![Learning Curve Tutoring](assets/images/learning-curve.png)
 
 **Why choose me to be your math tutor?**
 * **4.0 GPA, UCLA**
