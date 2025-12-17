@@ -4,6 +4,7 @@ layout: default
 
 ### Are you looking to **_really_** understand your math classes, improve your math grades, and grow as a person?
 
+
 Hi, my name is Coen PM!
 
 <!-- Image Here -->
@@ -13,6 +14,7 @@ After keeping a 4.0 GPA as a Math/Statistics major pre- and post-transfer to UCL
 ### If you, or anyone you know, is interested in an hourly math tutoring service, you can call me to schedule an appointment at:
 
 **Phone:** (323)356-4020
+
 **Email:** cpmoellendorf@gmail.com
 
 
