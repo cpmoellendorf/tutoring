@@ -9,7 +9,7 @@ layout: default
 [INSERT IMAGE HERE]
 
 **Why choose me to be your math tutor?**
-* **4.0 GPA pre- and post-transfer to UCLA**
+* **4.0 GPA, UCLA**
 * **2 years tutoring experience**
 * **Refined tutoring techniques to address academic _and_ personal challenges**
 
