@@ -2,6 +2,15 @@
 layout: default
 ---
 
+### Are you looking to **_really_** understand your math classes, improve your math grades, and grow as a person?
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
