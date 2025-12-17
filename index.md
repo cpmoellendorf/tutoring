@@ -12,7 +12,7 @@ layout: default
 * **4.0 GPA, UCLA**
 * **2 years tutoring experience**
 * **Refined tutoring techniques to address academic _and_ personal challenges**
-* **Affordable Rate (~$40/hour)**
+* **Affordable rate (~$40/hour)**
 
 ### If you, or anyone you know, is interested in an hourly math tutoring service, feel free to call/text me to schedule an appointment at:
 
